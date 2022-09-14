@@ -418,7 +418,7 @@ hr {
 .four .left {
     width: 70%;
     height: 70%;
-    background-image: url(/img/worker-6322085_1920.jpg);
+    background-image: url(img/worker-6322085_1920.jpg);
     background-size: cover;
     position: relative;
 }
@@ -549,7 +549,7 @@ hr {
 }
 
 .product .img-1 {
-    background-image: url(/img/factory-1639990_1920.jpg);
+    background-image: url(img/factory-1639990_1920.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     height: 300px;
@@ -557,7 +557,7 @@ hr {
 }
 
 .product .img-2 {
-    background-image: url(/img/factory-1639990_1920.jpg);
+    background-image: url(img/factory-1639990_1920.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     height: 300px;
@@ -864,7 +864,7 @@ hr {
 }
 
 .eight .card .header .img {
-    background-image: url(/img/profile-449912_640.jpg);
+    background-image: url(img/profile-449912_640.jpg);
     background-size: cover;
     border-radius: 50%;
     background-repeat: no-repeat;
